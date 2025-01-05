@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "title": "Test Blog 1",
+      "body": "This is a sample blog to test if the create functionality works properly and to check if it updates the JSON file accordingly. We also have to ensure it runs smoothly as expected and nothing breaks in my application. This is done practically to test and implement what I have learned in taking the React crash course.",
+      "author": "You"
+    },
+    {
+      "id": "2",
+      "title": "Test Blog 2",
+      "body": "This is a sample blog to test if the create functionality works properly and to check if it updates the JSON file accordingly. We also have to ensure it runs smoothly as expected and nothing breaks in my application. This is done practically to test and implement what I have learned in taking the React crash course.",
+      "author": "You"
+    },
+    {
+      "id": "3",
+      "title": "Test Blog 3",
+      "body": "This is a sample blog to test if the create functionality works properly and to check if it updates the JSON file accordingly. We also have to ensure it runs smoothly as expected and nothing breaks in my application. This is done practically to test and implement what I have learned in taking the React crash course.",
+      "author": "You"
+    },
+    {
+      "id": "4",
+      "title": "Test Blog 4",
+      "body": "This is a sample blog to test if the create functionality works properly and to check if it updates the JSON file accordingly. We also have to ensure it runs smoothly as expected and nothing breaks in my application. This is done practically to test and implement what I have learned in taking the React crash course.",
+      "author": "Tom"
+    },
+    {
+      "title": "Test Blog 5",
+      "body": "This is a sample blog to test if the create functionality works properly and to check if it updates the JSON file accordingly. We also have to ensure it runs smoothly as expected and nothing breaks in my application. This is done practically to test and implement what I have learned in taking the React crash course.",
+      "author": "Dan",
+      "id": "5"
+    }
+  ]
+}
