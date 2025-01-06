@@ -24,7 +24,7 @@ html {
 }
 
 ::-webkit-scrollbar-thumb {
-  background-color: #f1356d;
+  background-color: #E67E22;
   border-radius: 10px;
   border: 3px solid #f1f1f1;
 }
@@ -40,10 +40,12 @@ html {
   max-width: 1200px;
   margin: 0 auto;
   border-bottom: 1px solid #fafafa;
+  background: #E67E22;
+  color: #fafafa;
 }
 
 .navbar h1 {
-  color: #f1356d;
+  color: #fafafa;
 }
 
 .navbar .links {
@@ -54,10 +56,7 @@ html {
   margin-left: 16px;
   text-decoration: none;
   padding: 6px;
-}
-
-.navbar a:hover {
-  color: #f1356d;
+  color: #fafafa;
 }
 
 .content {
@@ -75,7 +74,7 @@ html {
 
 .btn {
   cursor: pointer;
-  background: #f1356d;
+  background: #E67E22;
   color: #fafafa;
   border-radius: 10px;
   padding: 15px 30px;
@@ -103,7 +102,7 @@ html {
   padding: 10px;
   margin-bottom: 20px;
   border-radius: 10px;
-  border: 1px solid #f1356d;
+  border: 1px solid #E67E22;
   background-color: #fafafa;
 }
 
@@ -151,7 +150,7 @@ html {
 .createPreview h2,
 .editPreview h2 {
   font-size: 20px;
-  color: #f1356d;
+  color: #E67E22;
   margin-bottom: 10px;
 }
 
@@ -198,7 +197,7 @@ html {
   padding: 10px;
   margin-bottom: 20px;
   border-radius: 10px;
-  border: 1px solid #f1356d;
+  border: 1px solid #E67E22;
   background-color: #fafafa;
 }
 
@@ -215,7 +214,7 @@ html {
   height: 100%;
   -webkit-appearance: none;
   -moz-appearance: none;
-  background: url('data:image/svg+xml;utf8,<svg fill="%23f1356d" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M7 10l5 5 5-5z"/></svg>') no-repeat right 10px center;
+  background: url('data:image/svg+xml;utf8,<svg fill="%23E67E22" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M7 10l5 5 5-5z"/></svg>') no-repeat right 10px center;
   background-color: #fafafa;
 }
 

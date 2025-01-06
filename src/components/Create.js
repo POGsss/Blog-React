@@ -57,8 +57,8 @@ function Create() {
                     <label>Author:</label>
                     <select value={ author } onChange={ (e) => setAuthor(e.target.value) }>
                         <option value="you">You</option>
-                        <option value="mario">Tom</option>
-                        <option value="luigi">Dan</option>
+                        <option value="Tom">Tom</option>
+                        <option value="Dan">Dan</option>
                     </select>
                     { !isPending && <button className='btn'>Confirm</button> }
                     { isPending && <button className='btn'>Loading</button> }
